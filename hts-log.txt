@@ -1,0 +1,32 @@
+HTTrack3.48-21 launched on Fri, 01 Jul 2016 01:55:44 at http://hrh.name/hypermedia/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/*
+(webhttrack -q -%i -w http://hrh.name/hypermedia/ -O "/home/hrh/websites/timm" -n -%P -N0 -s2 -p7 -D -a -K0 -c4 -%k -A25000 -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -%s -%u )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+01:55:54	Warning: 	Note: due to hrh.name remote robots.txt rules, links beginning with these path will be forbidden: /wp-admin/ (see in the options to disable this)
+01:56:26	Error: 	"Not Found" (404) at link hrh.name/hypermedia/testemonials.php (from hrh.name/hypermedia/projects.php)
+01:56:26	Error: 	"Not Found" (404) at link hrh.name/hypermedia/"/etc/designs/ti-rwd/cmn/v4/img/layout/article-list-dot-red.png" (from hrh.name/hypermedia/business.php)
+01:56:27	Warning: 	HTML file (2158 bytes) retransferred due to lack of cache: hrh.name/hypermedia/index.php
+01:56:27	Warning: 	HTML file (4912 bytes) retransferred due to lack of cache: hrh.name/hypermedia/testimonials.php
+01:56:28	Warning: 	HTML file (2909 bytes) retransferred due to lack of cache: hrh.name/hypermedia/news.php
+01:56:34	Warning: 	HTML file (3111 bytes) retransferred due to lack of cache: hrh.name/hypermedia/devices.php?category=2
+01:56:35	Warning: 	HTML file (3111 bytes) retransferred due to lack of cache: hrh.name/hypermedia/devices.php?category=3
+01:56:35	Warning: 	HTML file (3111 bytes) retransferred due to lack of cache: hrh.name/hypermedia/devices.php?category=4
+01:56:36	Warning: 	HTML file (3111 bytes) retransferred due to lack of cache: hrh.name/hypermedia/devices.php?category=5
+01:56:36	Warning: 	HTML file (17128 bytes) retransferred due to lack of cache: hrh.name/hypermedia/device.php?id=1
+01:56:39	Warning: 	HTML file (2906 bytes) retransferred due to lack of cache: hrh.name/hypermedia/sl.php?category=2
+01:56:40	Warning: 	HTML file (2906 bytes) retransferred due to lack of cache: hrh.name/hypermedia/sl.php?category=3
+01:56:40	Warning: 	HTML file (2906 bytes) retransferred due to lack of cache: hrh.name/hypermedia/sl.php?category=4
+01:56:40	Warning: 	HTML file (3003 bytes) retransferred due to lack of cache: hrh.name/hypermedia/onesl.php?id=1
+01:56:41	Warning: 	HTML file (2956 bytes) retransferred due to lack of cache: hrh.name/hypermedia/assist.php?category=3
+01:56:41	Warning: 	HTML file (3163 bytes) retransferred due to lack of cache: hrh.name/hypermedia/assist.php?category=4
+01:56:42	Warning: 	HTML file (3773 bytes) retransferred due to lack of cache: hrh.name/hypermedia/oneassist.php?id=1
+01:56:42	Warning: 	HTML file (11302 bytes) retransferred due to lack of cache: hrh.name/hypermedia/testemonials.php
+01:56:44	Error: 	"Not Found" (404) at link hrh.name/hypermedia/testemonials.php (from hrh.name/hypermedia/projects.php)
+01:56:45	Error: 	"" (404) at link hrh.name/hypermedia/"/etc/designs/ti-rwd/cmn/v4/img/layout/article-list-dot-red.png" (from hrh.name/hypermedia/business.php)
+
+HTTrack Website Copier/3.48-21 mirror complete in 1 minutes 1 seconds : 75 links scanned, 87 files written (1280550 bytes overall) [1233537 bytes received at 20221 bytes/sec], 169439 bytes transferred using HTTP compression in 47 files, ratio 31%, 3.4 requests per connection
+(4 errors, 17 warnings, 0 messages)

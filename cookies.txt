@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+hrh.name	TRUE	/	FALSE	1999999999	wassup	ODc5NDU4YWY1NzhmMTBiOTc1YThiNGM3ODU3NGMyZTc6OjE0NjczMzQzODk6Ojo6Mi4yMjUuMTIuNzY6OjItMjI1LTEyLTc2LmlwMTczLmZhc3R3ZWJuZXQuaXQ6Og%253D%253D
+
